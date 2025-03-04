@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MohamedKarm551<br><br>👀 I’m interested in programming<br><br>🌱 I’m currently learning front-end and back-end development<br><br>💞️ I study at Al-Azhar University<br><br>📫 How to reach me:<br><br>facebook:<br>https://web.facebook.com/profile.php?id=100009020129102<br><br>linkedin:<br>https://www.linkedin.com/in/mohamed-karm-782b07221/<br><br>twitter:<br>https://twitter.com/mohamdkarm551
+👋 Hi, I’m @MohamedKarm551<br><br>👀 I’m interested in programming<br><br>🌱 I’m currently learning front-end and back-end development<br><br>💞️ I study at Al-Azhar University<br><br>📫 How to reach me:<br>linkedin:<br>https://www.linkedin.com/in/mohamed-karm-782b07221/<br><br>twitter:<br>https://twitter.com/mohamdkarm551
 
 
 ## 🌐 Socials:
